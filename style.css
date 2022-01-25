@@ -1,0 +1,32 @@
+body { 
+    background-color: black;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    color: red;
+
+}
+.top{
+    display: flex;
+    color: blue;
+    justify-content: space-between;
+
+}
+.midlle{display: flex;
+    justify-content:flex-di;
+}
+.image{
+    height: 180px;
+    width: 180px;
+}
+.head{ 
+    color: chocolate;
+}
+.body{
+    color: cyan;
+}
+.main{
+    width: 600px;
+    height: 400px;
+   background-color: white;
+}
