@@ -14,7 +14,12 @@ body {
 }
 .middle{
     display: flex;
-    justify-content:flex-end
+    justify-content:flex-end;
+    padding:5px;
+    font-variant: normal;
+    align-items: baseline;
+
+
 }
 .bottom{ 
     display: flex;
